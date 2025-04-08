@@ -1,0 +1,14 @@
+C:\Users\PcGamer\Documents\Repositorios\Nube\Csharp\SumasDeRiemann\bin\Debug\net9.0\SumasDeRiemann.exe
+C:\Users\PcGamer\Documents\Repositorios\Nube\Csharp\SumasDeRiemann\bin\Debug\net9.0\SumasDeRiemann.deps.json
+C:\Users\PcGamer\Documents\Repositorios\Nube\Csharp\SumasDeRiemann\bin\Debug\net9.0\SumasDeRiemann.runtimeconfig.json
+C:\Users\PcGamer\Documents\Repositorios\Nube\Csharp\SumasDeRiemann\bin\Debug\net9.0\SumasDeRiemann.dll
+C:\Users\PcGamer\Documents\Repositorios\Nube\Csharp\SumasDeRiemann\bin\Debug\net9.0\SumasDeRiemann.pdb
+C:\Users\PcGamer\Documents\Repositorios\Nube\Csharp\SumasDeRiemann\obj\Debug\net9.0\SumasDeRiemann.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PcGamer\Documents\Repositorios\Nube\Csharp\SumasDeRiemann\obj\Debug\net9.0\SumasDeRiemann.AssemblyInfoInputs.cache
+C:\Users\PcGamer\Documents\Repositorios\Nube\Csharp\SumasDeRiemann\obj\Debug\net9.0\SumasDeRiemann.AssemblyInfo.cs
+C:\Users\PcGamer\Documents\Repositorios\Nube\Csharp\SumasDeRiemann\obj\Debug\net9.0\SumasDeRiemann.csproj.CoreCompileInputs.cache
+C:\Users\PcGamer\Documents\Repositorios\Nube\Csharp\SumasDeRiemann\obj\Debug\net9.0\SumasDeRiemann.dll
+C:\Users\PcGamer\Documents\Repositorios\Nube\Csharp\SumasDeRiemann\obj\Debug\net9.0\refint\SumasDeRiemann.dll
+C:\Users\PcGamer\Documents\Repositorios\Nube\Csharp\SumasDeRiemann\obj\Debug\net9.0\SumasDeRiemann.pdb
+C:\Users\PcGamer\Documents\Repositorios\Nube\Csharp\SumasDeRiemann\obj\Debug\net9.0\SumasDeRiemann.genruntimeconfig.cache
+C:\Users\PcGamer\Documents\Repositorios\Nube\Csharp\SumasDeRiemann\obj\Debug\net9.0\ref\SumasDeRiemann.dll
