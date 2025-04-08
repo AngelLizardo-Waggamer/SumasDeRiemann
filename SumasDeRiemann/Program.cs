@@ -36,11 +36,3 @@ for (double x = lim_inferior; x < lim_superior; x += base_rectangulo){
 
 // Mostrar el resultado final
 Console.WriteLine("Area calculada: " + area + "u^2");
-
-// x = lim_inferior;
-// while (x < lim_superior){
-//     altura_rectangulo = -x * x * x + 10 * x * x + 8 * x + 10;
-//     area+=base_rectangulo*altura_rectangulo;
-//     x+=base_rectangulo;
-// }
-// Console.WriteLine("El área es:" + area);

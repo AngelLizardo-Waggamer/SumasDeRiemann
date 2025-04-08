@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PcGamer\\Documents\\Repositorios\\Nube\\Csharp\\SumasDeRiemann\\SumasDeRiemann.csproj",
+      "projectUniqueName": "C:\\Users\\PcGamer\\Documents\\Repositorios\\Nube\\Csharp\\SumasDeRiemann\\SumasDeRiemann\\SumasDeRiemann.csproj",
       "projectName": "SumasDeRiemann",
-      "projectPath": "C:\\Users\\PcGamer\\Documents\\Repositorios\\Nube\\Csharp\\SumasDeRiemann\\SumasDeRiemann.csproj",
+      "projectPath": "C:\\Users\\PcGamer\\Documents\\Repositorios\\Nube\\Csharp\\SumasDeRiemann\\SumasDeRiemann\\SumasDeRiemann.csproj",
       "packagesPath": "C:\\Users\\PcGamer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PcGamer\\Documents\\Repositorios\\Nube\\Csharp\\SumasDeRiemann\\obj\\",
+      "outputPath": "C:\\Users\\PcGamer\\Documents\\Repositorios\\Nube\\Csharp\\SumasDeRiemann\\SumasDeRiemann\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
