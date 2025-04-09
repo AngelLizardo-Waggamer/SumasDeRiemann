@@ -30,9 +30,9 @@ base_rectangulo = (lim_superior - lim_inferior) / partes;
 // Realizar la suma de las áreas de los rectángulos
 for (double x = lim_inferior; x < lim_superior; x += base_rectangulo){
     altura_rectangulo = f(x);
-    Console.WriteLine("Intervalo: " + x + " - " + (x + base_rectangulo) + " | Altura: " + altura_rectangulo);
+    Console.WriteLine("Intervalo: [" + x + ", " + (x + base_rectangulo) + "] | Altura: " + altura_rectangulo);
     area += base_rectangulo * altura_rectangulo;
 }
 
 // Mostrar el resultado final
-Console.WriteLine("Area calculada: " + area + "u^2");
+Console.WriteLine("| Area calculada: " + area + " u^2 |");
