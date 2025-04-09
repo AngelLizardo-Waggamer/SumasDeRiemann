@@ -1,6 +1,7 @@
 ﻿double base_rectangulo, altura_rectangulo;
 double partes, area = 0;
 double lim_inferior, lim_superior;
+bool informacionCompleta;
 
 // f(x) = -x^3 + 10x^2 + 8x + 10
 double f(double x){
@@ -24,13 +25,19 @@ Console.Write(">>"); lim_superior = Double.Parse(Console.ReadLine()!);
 Console.WriteLine("Ingrese la cantidad de rectangulos: ");
 Console.Write(">>"); partes = Double.Parse(Console.ReadLine()!);
 
+// Prender impresión completa de datos
+Console.WriteLine("(Opcional) ¿Desea imprimir todos los datos? (s/n) ");
+Console.Write(">>"); informacionCompleta = Console.ReadLine()!.Equals("s", StringComparison.CurrentCultureIgnoreCase); // true = s, false = cualquier otra letra
+
 // Base de los rectángulos
 base_rectangulo = (lim_superior - lim_inferior) / partes;
 
 // Realizar la suma de las áreas de los rectángulos
 for (double x = lim_inferior; x < lim_superior; x += base_rectangulo){
     altura_rectangulo = f(x);
-    Console.WriteLine("Intervalo: [" + x + ", " + (x + base_rectangulo) + "] | Altura: " + altura_rectangulo);
+    if (informacionCompleta) {
+        Console.WriteLine("Intervalo: [" + x + ", " + (x + base_rectangulo) + "] | Altura: " + altura_rectangulo);
+    }
     area += base_rectangulo * altura_rectangulo;
 }
 
